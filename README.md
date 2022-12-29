@@ -2,7 +2,7 @@
 - 👀 I’m a student pursuing Master's in Data Science from Christ( Deemed to be University), Bangalore
 - 🌱 I’m currently learning Machine Learning.
 - 👀 I'm open for internships for Data Scientist and Data Analysts roles.
-- 💞️ I’m looking to collaborate with Data Science enthusiasts.
+- 💞️ I’m looking forward to collaborate with Data Science enthusiasts.
 - 📫 Connect With Me
     Mail_Id: priya30.dey@gmail.com 
 
